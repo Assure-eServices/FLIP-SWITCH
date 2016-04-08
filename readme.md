@@ -50,7 +50,12 @@ Set a variable in Qliksense to true/false using checkbox.
  
  
  # Examples
-
+ 
+	Variable values can be set to true or false
+	
+		If True or Checked - Color changes to Green
+		If False or UnChecked - Color changes to White
+		
 ![examples](https://cloud.githubusercontent.com/assets/18327523/14352200/f35986c0-fcf0-11e5-93d2-7772e06c015e.png)
 	
 # Author
