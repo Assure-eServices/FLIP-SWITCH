@@ -42,20 +42,19 @@ Set a variable in Qliksense to true/false using checkbox.
 ![label text](https://cloud.githubusercontent.com/assets/18327523/14352186/e027f5c8-fcf0-11e5-9c7f-5390bc543c5a.png)
 
 
-2. Variable
+3. Variable
 
 	Usually you have to create the variable in your data load script,But in this Flip switch extension, you can create your  variable using "Variable Name" textbox. Based on this variable, Flip switch extension starts to work automatically.For example
 	
  ![variable](https://cloud.githubusercontent.com/assets/18327523/14352187/e02f9378-fcf0-11e5-8fe5-05962bcfecd6.png)
  
+4. Variable values can be set to true or false
+	
+	If True or Checked - Color changes to Green
+	If False or UnChecked - Color changes to White
  
  # Examples
  
-	Variable values can be set to true or false
-	
-		If True or Checked - Color changes to Green
-		If False or UnChecked - Color changes to White
-		
 ![examples](https://cloud.githubusercontent.com/assets/18327523/14352200/f35986c0-fcf0-11e5-93d2-7772e06c015e.png)
 	
 # Author
