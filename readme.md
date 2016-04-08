@@ -35,13 +35,14 @@ Set a variable in Qliksense to true/false using checkbox.
 1. Drag and drop the visualization extension into a Qlik Sense sheet and define variable name
 
 2. Label Text
+
 	Customized text can be created by the user. For example
 
 ![label text](https://cloud.githubusercontent.com/assets/18327523/14352186/e027f5c8-fcf0-11e5-9c7f-5390bc543c5a.png) 
 
 3.Variable
 
-	* Usually you have to create the variable in your data load script,But in this Flip switch extension, you can create your  variable using "Variable Name" textbox. 
+	* Usually you have to create the variable in your data load script.But in this Flip switch extension you can create your  variable using "Variable Name" textbox. 
 	
 	* Based on this variable, Flip switch extension starts to work automatically.For example
 	
