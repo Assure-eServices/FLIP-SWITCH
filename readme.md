@@ -60,5 +60,5 @@ Set a variable in Qliksense to true/false using checkbox.
 # Author
 
 **Assure eServices Pvt. Ltd. ** 
-
+![aes logo transperant](https://cloud.githubusercontent.com/assets/18327523/14427096/7c9cabfc-0010-11e6-8b9a-8c7e0ac90308.png)
 [github.com/Assureeservices](http://github.com/Assureeservices)
